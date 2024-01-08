@@ -1,0 +1,29 @@
+*{
+  margin: 16px;  
+}
+.header{
+    background-image: url('../assignment1-repository/resources/Banner\ Image.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+    width: 1200px;
+}
+.header-content{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.header-h1{
+    color: #FFF;
+    font-size: 32px;
+    font-weight: 400;
+    padding-top: 170px;
+}
+.header-h2{
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+    padding-bottom: 170px;
+    padding-left: 250px;
+}
