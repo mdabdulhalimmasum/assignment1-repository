@@ -127,3 +127,56 @@
     font-weight: 300;
     line-height: 25px;
 }
+.s4-img-b{
+    border: 9px solid red;
+    border-radius: 50%;
+    margin-right: 100px;
+    margin-left: 30px;
+}
+.s4-img{
+    height: 250px;
+    width: 250px;
+}
+.s4-offer{
+    margin-right: 50px;
+}
+.s4-o-h{
+    color: #F00;
+    font-size: 48px;
+    font-weight: 700;
+}
+.s4-o-p{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 17px;
+    font-weight: 200;
+    line-height: 25px;
+    margin-bottom: 2px;
+}
+.s4-o-img{
+    width: 140px;
+    height: 140px;
+    flex-shrink: 0;  
+}
+.s5-con{
+    margin-top: 200px;
+    text-align: center;
+}
+.s5-h1{
+    color: #070211;
+    font-size: 19px;
+    font-weight: 400;
+}
+.s5-h2{
+    color: #070211;
+    font-size: 40px;
+    font-weight: 600;
+}
+.s5-s{
+    color: #F00;
+}
+.s5-p{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 25px;
+}
