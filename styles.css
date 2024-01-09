@@ -221,5 +221,43 @@
     height: 350px;
 }
 .s6-img:hover{
-    border: 2px solid brown;
+    border: 2px solid blue;
 }
+.s7{
+    text-align: center;
+    background-color:cornsilk;
+}
+.s7-img{
+    width: 100px;
+    height: 100px;
+}
+.s7-h{
+    color: #070211;
+    font-size: 38px;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+.s7-p{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 17px;
+    font-weight: 300;
+    line-height: 27px;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+.s7-f{
+    border-radius: 50px;
+    background: #FFF;
+    width: 248px;
+    height: 22px;
+}
+.s7-b{
+    color: #FFF;
+    font-size: 15px;
+    font-weight: 300;
+    text-transform: capitalize;
+    background-color: #F00;
+    padding: 5px;
+    border-radius: 15%;
+}
+
