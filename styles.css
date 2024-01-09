@@ -80,6 +80,13 @@
     text-transform: uppercase;
     margin-left: 120px;
 }
+.s2-img{
+    width: 200px;
+    height: 240px;
+    margin-left: 500px;
+    margin-bottom: -200px;
+    margin-top: -200px;   
+}
 .section3{
     width: 1170px;
     height: 300px;
